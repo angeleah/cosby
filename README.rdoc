@@ -1,0 +1,5 @@
+= Cosby
+
+This project rocks and uses MIT-LICENSE.
+
+A tribute to 8th Light.
