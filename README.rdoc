@@ -2,4 +2,4 @@
 
 This project rocks and uses MIT-LICENSE.
 
-A tribute to 8th Light.
+A tribute to 8th Light inspired by the gem Webrickroll. This gem highjacks every request and points it to the cosby simpsons video.
