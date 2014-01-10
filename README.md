@@ -1,6 +1,6 @@
 Cosby
 =====
-A spin off of [Webrickroll](https://github.com/angeleah/webrickroll), a Rails Engine packaged as a gem that will highjack every request and redirect to the Cosby Simpson's video. This gem is server independent. Enjoy.
+A spin off of [Webrickroll](https://github.com/angeleah/webrickroll), a Rails Engine packaged as a gem that will highjack every request and redirect to the Cosby Rap video. This gem is server independent. Enjoy.
 
 GETTING STARTED
 ---------------
@@ -14,6 +14,7 @@ GETTING STARTED
   + Stop and restart the server
   + Allow your unsuspecting victim to navigate to any route within your app.
   + Enjoy the video and feel the sweet victory of pulling off a hilarious prank.
+  + Simply remove the gem from the Gemfile and re-bundle to remove the redirection to the video.
   + Lock your computer the next time you go to the bathroom.
 
 
