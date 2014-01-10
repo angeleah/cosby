@@ -2,7 +2,7 @@ Cosby
 =====
 ABOUT
 -----
-A Rails Engine packages as a gem that will highjack every request and redirect to the Cosby Simpson's video.
+A Rails Engine packaged as a gem that will highjack every request and redirect to the Cosby Simpson's video.
 
 GETTING STARTED
 ---------------
@@ -11,7 +11,7 @@ GETTING STARTED
   + Stop and restart the server
   + Navigate to any route within your app.
 - To use discreetly(say, while your pair is in the restroom in order to surprise them upon return):
-  + Add the gem to the gemfile and bundle.
+  + Add the gem to the Gemfile and bundle.
   + Do this in a separate tab and then close it to leave no suspicion.
   + Stop and restart the server
   + Allow your unsuspecting victim to navigate to any route within your app.
