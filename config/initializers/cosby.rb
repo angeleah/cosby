@@ -5,7 +5,7 @@ module Cosby
     end
 
     def call(env)
-     return [302, {"Location" => "http://www.youtube.com/watch?v=OSAYNKTNjMs
+     return [302, {"Location" => "https://www.youtube.com/watch?v=1X7_vN5VxS0
 "},[]]
     end
 
