@@ -1,7 +1,5 @@
 Cosby
 =====
-ABOUT
------
 A Rails Engine packaged as a gem that will highjack every request and redirect to the Cosby Simpson's video.
 
 GETTING STARTED
